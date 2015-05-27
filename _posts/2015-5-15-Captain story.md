@@ -4,11 +4,14 @@ title: 8) Captain Story
 ---
 
 Better sounding version
+
 <audio controls>
 <source src="{{ site.baseurl }}/audio/life-in-space.mp3" type="audio/mpeg">
 </audio>
 
+
 Better monologue (maybe) and some fun post-monologue stuff
+
 <audio controls>
 <source src="{{ site.baseurl }}/audio/life-in-space2.mp3" type="audio/mpeg">
 </audio>
