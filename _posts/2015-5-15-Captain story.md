@@ -6,6 +6,7 @@ title: 8) Captain Story
 <audio controls>
 <source src="{{ site.baseurl }}/audio/life-in-space.mp3" type="audio/mpeg">
 </audio>
+
 A-D-Dm-A-Em-D
 I  
 Came here  
