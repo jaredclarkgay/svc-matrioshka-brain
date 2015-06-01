@@ -16,6 +16,9 @@ Better monologue (maybe) and some fun post-monologue stuff
 <source src="{{ site.baseurl }}/audio/life-in-space2.mp3" type="audio/mpeg">
 </audio>
 
+
+Story of how captain became a space explorer because he loves life so destroying the Matrioshka brain is terrifying, but he knows it needs to be done.
+
 A-D-Dm-A-Em-D  
 I  
 Came here  
@@ -38,4 +41,23 @@ Is space
 Such  
 an endless night?  
 
-(Monologue about the value of life and feeling really torn about having to destroy the Matrioshka brain - even though it's artificial intelligence, it's definitely alive etc. When I was just a boy I learned to value life or something dumb like that. Maybe there's an alternate solution?)
+Captain on the line  
+I wanna tell you about my youth  
+
+A-D-Dm-A-Em-D  
+I used to study  
+Study the sky  
+
+A-D-Dm-A-Em-D  
+Used to stare up late  
+Wondering why  
+
+F-E-F-G  
+The stars in the sky  
+Hung there all night  
+
+F-E-F-G  
+And I've wondered what the universe is for  
+All my life  
+And I'm still not sure  
+But I know I love life  
