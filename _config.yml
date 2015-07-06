@@ -9,7 +9,7 @@ name: SVC The Matrioshka Brain
 description: Lyrics & Chords
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/svc-logo1.png
+avatar: 
 
 #
 # Flags below are optional
