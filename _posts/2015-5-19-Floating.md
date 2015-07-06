@@ -5,12 +5,32 @@ title: 3) Floating
 To-do: 
 
 <audio controls>
-<source src="{{ site.baseurl }}/audio/floating-stolen.mp3" type="audio/mpeg">
+<source src="{{ site.baseurl }}/audio/floating-draft3-2.mp3" type="audio/mpeg">
 </audio>
 
-This recording is a straight up pirated recording of a song of Colin's.
+A(open-f-shape-)-A(e-shape open)-(007870)-(000433)  
+I see the space in front of me  
+Through some glass a few feet deep  
 
-It's probably not even close to what the vibe of this song should be. But this song should feel nice. Breathing room. It's space. It's nice. It's new. It's expansive, and it isn't dark like most everything else in this show will be.
+Days go by they look the same  
+Each passing star a nameless grain  
+
+
+C/G-D/G(c-shape)-B/F#(c-shape)  
+Don’t be alarmed  
+The space isn’t so far  
+Between  
+Point A  
+And Point B  
+I came here to reach beyond our  
+Terrestrial captivity  
+ 
+I am wonderin’ what we’ll see  
+I hope there’s life out there like me  
+
+
+___________________________
+
 
 Em7-F-C-F-Em7
 Tell me when your heads  
@@ -43,7 +63,7 @@ All pass by
 
 Em7-F-C-F-Em7
 Don't hold your breath
-There's  oxygen on this ship
+There's   oxygen on this ship
 
 Where we're going out here
 I'm not sure yet 
