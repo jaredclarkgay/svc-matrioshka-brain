@@ -11,19 +11,36 @@ A(open-f-shape-)-A(e-shape open)-(007870)-(000433)
 I see the space in front of me  
 Through some glass a few feet deep  
 
-Days go by they look the same  
+Days go by it looks the same  
 Each passing star a nameless grain  
 
+I keep a picture within reach  
+of my friends and family  
+I wonder what they're wondering  
+As I float through the spacey deep  
 
-C/G-D/G(c-shape)-B/F#(c-shape)  
+Dm-C#-C-F-E
+
+G-F-A-G-F-A  
+[C/G-D/G(c-shape)-B/F#(c-shape)  ]
 Don’t be alarmed  
 The space isn’t so far  
 Between  
 Point A  
 And Point B  
-I came here to reach beyond our  
-Terrestrial captivity  
- 
+We came here to reach beyond our  
+Earth and through the stars  
+(Dm-C#-C-G-F-G-F) maybe  
+We came here to reach beyond our  
+Earth and through the stars  
+
+A(open-f-shape-)-A(e-shape open)-(007870)-(000433)  
+I won't ever see  
+Things the way they used to be  
+We're the first to take this leap  
+Deep into the galaxy  
+
+A-Dm-F-G
 I am wonderin’ what we’ll see  
 I hope there’s life out there like me  
 
