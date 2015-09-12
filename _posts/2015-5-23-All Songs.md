@@ -4,7 +4,7 @@ title: All Songs in Current Order
 ---
 
 1 - Boarding:  
-Everyone "gets on the ship." Fun. We're going to check out a planet named Zuckerberg we've suspected of having life on it for the last 50 years. We're in the year 2215. We haven't found life off of Earth yet. So please, Zuckerberg, have life! It's our dream!  
+Everyone gets on the ship. Fun. We're going to check out a planet named Zuckerberg we suspect has life on it. We're in the year 2215. We haven't found life off of Earth yet. So please, Zuckerberg, have life! It's our dream!  
 
 <audio controls>
 <source src="{{ site.baseurl }}/audio/boarding-takeoff-mix1.mp3" type="audio/mpeg">
@@ -39,27 +39,28 @@ We zip back into maximum warp once Tom plugs the engine back in. Here we come, Z
 </audio>
 
 6 - SVC Theme Song:  
-Upon detecting intelligent life on Zuckerberg we celebrate with a rousing chorus of the SVC Theme Song.  
+Upon detecting intelligent life on Zuckerberg we celebrate with a rousing chorus of the SVC Theme Song. The theme song is interrupted by a transmission from the planet. We're excited, and the person speaking to us is also excited - but not about the discovery of life.  
 
 <audio controls>
 <source src="{{ site.baseurl }}/audio/svc-theme.mp3" type="audio/mpeg">
 </audio>
 
-7 - Xenocide: We just saw Zuckerberg be devoured by the Matrioshka Brain and were told to "Flee!" "Find the Space Queen!" "If you're here, it already knows you exist and will destroy your planet!". In summary, our dreams were simultaneously fulfilled and shattered. Life and destruction all at once. Also - what exactly was that thing?  
+7 - Xenocide:  
+We just saw Zuckerberg be devoured by the Matrioshka Brain and were told to "Flee!" "Find the Space Queen!" "If you're here, it already knows you exist and will destroy your planet!". In summary, our dreams were simultaneously fulfilled and shattered. Life and destruction all at once. Reflection. Introspection. Growing up. Also - what exactly was that thing?  
 
 <audio controls>
 <source src="{{ site.baseurl }}/audio/xenocide.mp3" type="audio/mpeg">
 </audio>
 
 8 - Matrioshka Brain:  
-A distress signal comes in from the sole survivor of Zuckerberg. Apparently that thing is called The Matrioshka Brain. It destroys life intelligent enough to travel faster than the speed of light. The space queen can help us stop it. The Zuckerberger will help us find her.  
+A distress signal comes in from the sole survivor of Zuckerberg. Apparently that thing is called The Matrioshka Brain. It destroys life intelligent enough to travel faster than the speed of light. The space queen can help us stop it. The surviving Zuckerberger has the queen's coordinates and will help us find her.  
 
 <audio controls>
 <source src="{{ site.baseurl }}/audio/Matrioshka-brain-Almost-Final.mp3" type="audio/mpeg">
 </audio>
 
 9 - Space Queen:  
-The Space Queen agrees to help us stop the brain to protect the galaxy core, i.e. her turf. She boards our ship to act as bait and to help us trick the brain into overconsumption.  
+The Space Queen agrees to help us stop the brain to protect the galaxy core, i.e. her turf. She boards our ship to act as bait and to help us trick the brain into overconsumption as it chases us.  
 
 <audio controls>
 <source src="{{ site.baseurl }}/audio/mothers-milk.mp3" type="audio/mpeg">
