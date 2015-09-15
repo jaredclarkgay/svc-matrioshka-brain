@@ -60,7 +60,7 @@ A distress signal comes in from the sole survivor of Zuckerberg. Apparently that
 </audio>
 
 9 - Space Queen:  
-The Space Queen agrees to help us stop the brain to protect the galaxy core, i.e. her turf. She boards our ship to act as bait and to help us trick the brain into overconsumption as it chases us.  
+The Space Queen, after a regal and truly awesome entrance, agrees to help us stop the brain to protect the galaxy core, i.e. her turf. She boards our ship to act as bait and to help us trick the brain into overconsumption as it chases us.  
 
 <audio controls>
 <source src="{{ site.baseurl }}/audio/mothers-milk.mp3" type="audio/mpeg">

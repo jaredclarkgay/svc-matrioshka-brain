@@ -28,7 +28,7 @@ The space isn’t so far
 Between  
 Point A  
 And Point B  
-We came here to reach beyond our  
+I came here to reach beyond our  
 Earth and through the stars  
 (Dm-C#-C-G-F-G-F) maybe  
 We came here to reach beyond our  
