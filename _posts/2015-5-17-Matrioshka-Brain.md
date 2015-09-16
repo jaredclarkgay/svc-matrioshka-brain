@@ -16,7 +16,6 @@ A super computer in space
 Eneveloped all the light and heat  
 A heart inside, the sun it beats  
 
-
 F-G-A  
 -Whispered -  
 Inside. It beats. Inside. It beats.  
@@ -41,21 +40,42 @@ A-G-C-D (chorus)
 It’s coming quick!  
 The matrioshka brain  
 
-Can’t co-exist  
+Gonna destroy us  
 The matrioshka brain  
 
 Verse  
-I’ve heard of things like this before  
+We'd heard of things like this before  
 Crawling up from outer space’s core  
 
 Some are cruel and some are generous  
-This deep space monster wants to destroy us  
+This deep space monster came to destroy us  
 
-And we can’t float here idly by  
-Letting Earth and every human die  
+And we just sat there watching while  
+A great space monster from an endless sky  
 
-We  
-MUST DEFEAT!!!!  
+Swept us  
+From existence  
+
+A-G-C-D (chorus)  
+It’s coming quick!  
+The matrioshka brain  
+
+Gonna destroy us 
+The matrioshka brain  
+
+(intro melody)
+We need to find the queen  
+To save your planet  
+She's rules the core
+Of the galaxy around us
+
+D-F-G-D-F-G-A
+The brain will destroy
+Life that can compete
+And you can
+Travel faster than light
+And it won't stand for that
+
 
 
 Talk about: Shkadov thruster, astroengineers, megastructures, dyson spheres,
