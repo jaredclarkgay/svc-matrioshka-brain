@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5) Matrioshka Brain
+title: 5) Matrioshka Brain / Life as bright as a sun  
 ---
 To-do: 
 
@@ -33,14 +33,19 @@ One’s coming quick
 F-G-A-Am  
 Propelled by  
 The heat within  
-(f-open – g-open)  
-The heat! WITHIN!!!!  
+(f-open – g-open)    
 
 A-G-C-D (chorus)  
 It’s coming quick!  
 The matrioshka brain  
 
-Gonna destroy us  
+Came to destroy us  
+The matrioshka brain  
+
+And your up next  
+The Matrioshka brain  
+
+It’s coming quick!  
 The matrioshka brain  
 
 Verse  
@@ -51,52 +56,65 @@ Some are cruel and some are generous
 This deep space monster came to destroy us  
 
 And we just sat there watching while  
-A great space monster from an endless sky  
+A mega structure filled up our sky  
 
-Swept us  
-From existence  
+Helpless  
+It destroyed us    
 
 A-G-C-D (chorus)  
 It’s coming quick!  
 The matrioshka brain  
 
-Gonna destroy us 
+Came to destroy us 
+The matrioshka brain  
+
+And your up next  
+The Matrioshka brain  
+
+It’s coming quick!  
 The matrioshka brain  
 
 (intro melody)
 We need to find the queen  
 To save your planet  
-She's rules the core
-Of the galaxy around us
+She rules the core  
+Of the galaxy around us  
+
+I have her coordinates  
+I'll take you there  
+The brain will follow us  
+But don't be scared  
 
 D-F-G-D-F-G-A
-The brain will destroy
-Life that can compete
-And you can
-Travel faster than light
-And it won't stand for that
+The brain will destroy life  
+Life that can compete with it  
+And you can travel faster than light  
+So it is coming for you next  
 
+(verse)  
+They built a matrioshka brain  
+Some ancient civilization  
 
+Alive and complex just like you and me  
+But wanting to control the galaxy  
 
-Talk about: Shkadov thruster, astroengineers, megastructures, dyson spheres,
-
-
-http://en.wikipedia.org/wiki/Stellar_engine
-
-http://en.wikipedia.org/wiki/Astroengineering
+And we can't float here idly by  
+My home, then earth, then all of life  
+Need  
+The queen  
 
 A-G-F-E (all these chords open and slower)  
 Life is a sensitive wonder  
 It’s here and then it’s gone  
 Heat and chemicals thunder  
 We are all products of  
-A sun  
+The sun  
 
 A sun can give  
 A sun can take  
 This one’s bent on  
 Earth’s destruction  
-This one can’t stand life less bright  
-Than a sun  
+This one can’t stand life as bright  
+As a sun  
 A sun  
 And that’s us  
