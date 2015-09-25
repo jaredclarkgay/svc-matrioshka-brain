@@ -17,6 +17,57 @@ Better monologue (maybe) and some fun post-monologue stuff
 <source src="{{ site.baseurl }}/audio/life-in-space2.mp3" type="audio/mpeg">
 </audio>
 
+(Eb-G-C)  
+(Eb-Bb-Dm-Eb)  
+I used to dream  
+Of life  
+Beyond our reach  
+I'd be learning  
+All their stories  
+In my dreams  
+In my - my good dreams  
+
+(verse about the end of a civilization)  
+
+(Eb-G-C)  
+(Eb-Bb-Dm-Eb)  
+To all our dreams  
+A horror  
+Far beyond speech  
+Gone in a blink  
+Without warning  
+But my dreams  
+But my - my good -   
+
+(Eb-Bb-C-Eb-F)  
+Dreams weren't ready  
+For destruction  
+So much terror  
+So much nothing  
+
+All our future  
+Could be subject  
+To a lifeform  
+Far beyond us  
+
+(Eb-Bb-C-Eb-F)  
+Can't phone home  
+Can't bridge the distance  
+So much life  
+Gone in an instant  
+Wish we could have had just  
+One more moment  
+One more moment  
+One more moment  
+
+I used to dream  
+Of life  
+Beyond our reach  
+I'd be learning  
+All their stories  
+In my dreams  
+In my - my good dreams  
+
 
 Story of how captain became a space explorer because he loves life so destroying the Matrioshka brain is terrifying, but he knows it needs to be done.
 
