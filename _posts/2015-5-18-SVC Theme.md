@@ -10,17 +10,17 @@ To-do:
 
 We are the SVC  
 Space Venture Coalition  
-We come through space  
-And try to save the world  
+Exploring space  
+to unify the world   
 For we know  
 Outer space  
-Is dangerous
+Is beckoning  
 
 
 So we go  
 Yes we seek  
-Out in space   
-Life and peace  
+Other life   
+Spreading peace  
 For we are the SVC
 
 

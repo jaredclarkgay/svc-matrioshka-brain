@@ -2,7 +2,47 @@
 layout: post
 title: 8) Captain Story
 ---
-To-do: 
+
+Cmaj7-C-C9-6
+Oh endless night  
+I try, and I try  
+And I cannot  
+see any light  
+
+I looked outside  
+And saw so much life  
+Split from its day  
+Forever to its night  
+
+G#-A#-C
+When I was just a boy  
+I dreamed of outerspace and I  
+guess that I just dreamt too bright  
+
+When I was just a boy  
+I dreamed of life in space  
+I hoped that I would find others like me  
+
+My greatest dream  
+Gone in a blink  
+Curious, like us,  
+But quickly extinct  
+
+I am afraid  
+What was that thing?  
+How do we find  
+The space queen?  
+
+G#-A#-C
+When I was just a boy  
+I dreamed of outerspace and I  
+guess I dreamt too bright  
+
+When I was just a boy  
+I dreamed of life in space  
+I hoped that I would find others like me  
+
+
 
 Better sounding version
 
@@ -33,11 +73,21 @@ In my - my good dreams
 (Eb-Bb-Dm-Eb)  
 To all our dreams  
 A horror  
-Far beyond speech  
+Beyond speech  
 Gone in a blink  
 Without warning  
-But my dreams  
-But my - my good -   
+All my dreams    
+
+(Bb-Dm-G#-Eb)  
+Goodbye  
+Goodnight  
+Will I see you in the morning  
+Is this a dream   
+
+So brief  
+So bright  
+Don't think I'll see you in the morning  
+You will not be returning  
 
 (Eb-Bb-C-Eb-F)  
 Dreams weren't ready  
@@ -51,12 +101,12 @@ To a lifeform
 Far beyond us  
 
 (Eb-Bb-C-Eb-F)  
-Can't phone home  
+Can't call home  
 Can't bridge the distance  
 So much life  
 Gone in an instant  
-Wish we could have had just  
-One more moment  
+Wish we could have  
+Has just one more  
 One more moment  
 One more moment  
 
@@ -67,6 +117,11 @@ I'd be learning
 All their stories  
 In my dreams  
 In my - my good dreams  
+
+Bb-Dm-G#-Eb  
+Bb-Dm-G#-Eb-C-F (outro)  
+
+
 
 
 Story of how captain became a space explorer because he loves life so destroying the Matrioshka brain is terrifying, but he knows it needs to be done.
