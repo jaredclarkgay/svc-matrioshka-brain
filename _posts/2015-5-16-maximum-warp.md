@@ -2,7 +2,17 @@
 layout: post
 title: 6) Maximum Warp
 ---
-To-do: 
+Arpeggio tracks:
+
+<audio controls>
+<source src="{{ site.baseurl }}/audio/maxwarp-arp-1.mp3" type="audio/mpeg">
+</audio>
+
+<audio controls>
+<source src="{{ site.baseurl }}/audio/maxwarp-arp-2.mp3" type="audio/mpeg">
+</audio>
+
+Song:
 
 <audio controls>
 <source src="{{ site.baseurl }}/audio/maximum-warp.mp3" type="audio/mpeg">
