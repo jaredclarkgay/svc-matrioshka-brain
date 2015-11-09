@@ -8,55 +8,67 @@ To-do:
 <source src="{{ site.baseurl }}/audio/inconsequential-crewmen.mp3" type="audio/mpeg">
 </audio>
 
+
+Em-Dm
 When I wake in the morning  
 Feeling just like dirt  
-(If I remembered that what felt like)  
 I throw on my jumpsuit  
 And get ready for work  
 
+C-Em/B-Am7-C/G-F-G(-C on last one)  
 I'm just an inconsequential crewman  
-Although I give it my best  
-After years and years of working  
-No one seems to know I exist  
+And though I give it my best  
+I sit here next to the captain    
+But he doesn't seem to know I exist  
 
-Ah ya'll, ya'll there  
-ya'll know what I'm saying - uh -
-We don't get know love  
-
-If you're from engineers  
-Put your hands in the air  
-For my engineers  
-If you just don't care and you're engineers  
-Put your hands in the air  
-Engineers!! Engineersss!!!  
-When I say engine, you say ears!  
-Engine - eers. Engine - eers.  
-
-Hands in the air for the medical  
-Hands in the air for the medical  
-I say medi- CAL medi-CAL!  
-
-Well I got something to tell ya'll  
-That you may not know  
-Sometimes you matter more  
-Than you think when you're living down here below  
+Yeah everybody out here in the crew  
+Knows what I'm talking about, right?!!  
+Yeah we don't get no love  
+From the big shots up above  
+We've all been there before  
+We just do our chores  
+And no one seems to notice  
+But that's how it goees  
 On the lower decks  
-Where they don't pay  
-And they don't cash checks  
-But you know what?  
-You matter to me! So sing along!  
+Yo where's the respect? (Goad the crowd before moving on)  
 
-We're all consequential crewmen  
-When it matters most  
-Cuz without us, this ship would sink  
-And the whole planet earth would be toast  
+So we're gonna do a little call and response here
+When I say "this" you "that"
+THIS
+(THAT)
+THIS
+(THAT)
 
-Because we're all consequential crewmen  
-Throw your hands in the air with me if you agree  
-And hug the person sitting next to you  
-They might be the last one you ever see  
+Yeah you get it
 
-Yes we're all consequential crewmen  
-You all do your jobs so well  
-So get back to work immediately  
-Before planet Earth goes to hell  
+When I say "Outer" you say "Space"
+rocket-ship
+extra-terrestrials
+max-warp
+uni-verse
+solar-system
+planet-inhabitable
+Ex-plore
+
+Put your hands in the air  
+Cuz your engineers  
+Hands in the air cuz you're engineers!  
+Hands in the air cuz you're engineers!  
+Hands in the air cuz you're engineers!  
+
+Well I got something to tell you all  
+That you may not know  
+Without us all doing our part  
+The ship would probably explode (KEY CHANGE!!!)  
+
+D-F#m-
+We're all consequential crewmen!!!  
+We always give it our best!!!!
+Without everybody's efforts
+The SVC couldn't exist!
+
+Slow outro
+
+(tom - I guess what we're trying to say is there's a lot going on behind the scenes, and we're all excited to be on this mission!)
+
+(Jared - You're the best crew a captain could ever ask for.)  

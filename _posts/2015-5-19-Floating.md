@@ -45,7 +45,7 @@ I am wonderin’ what we’ll see
 I hope there’s life out there like me  
 
 
-___________________________
+______________________ _____
 
 
 Em7-F-C-F-Em7

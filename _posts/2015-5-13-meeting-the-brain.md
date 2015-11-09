@@ -7,6 +7,33 @@ title: 9) Meeting the Brain
 <source src="{{ site.baseurl }}/audio/mothers-milk.mp3" type="audio/mpeg">
 </audio>
 
-Colin wants to write this one.
+I'm the brain  
+You're the fools  
+You don't even make good tools  
 
-We finally meet the brain in this song. We get to know him and his pure evilness and he has a vocoder scary voice. And a big brain lowers from the ceiling and light comes from his eyes and mouth or whatever.
+And you, stepped outside  
+Welcome, welcome to the skies  
+
+Nice to meet you  
+The pleasure is mine  
+Here to wipe you  
+from space and time  
+Sit back  
+Enjoy the ride  
+Sweet little earthlings  
+About to die  
+
+Let me tell you a little bit about my self  
+
+E-C#m-D-A
+Let me tell you about myself
+There's a star inside me  
+
+Powering the smartest being
+Ever in existence
+
+Nothing out there's quite like me  
+And I hate competition  
+
+Why should I let you live?  
+And risk my own destruction?  

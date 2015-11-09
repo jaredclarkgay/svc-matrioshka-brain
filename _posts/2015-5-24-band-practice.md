@@ -1,8 +1,55 @@
 ---
 layout: post
-title: Most Recent Practice Recordings
+title: Band Practice
 ---
-Most recent update: 10/22/15  
+
+#Most recent update: 11/8/15  
+
+## Liftoff:  
+<audio controls>
+<source src="{{ site.baseurl }}/audio/114-liftoff.mp3" type="audio/mpeg">
+</audio>
+
+* Feedback blah blah
+* More feedback
+
+
+## Floating (starting at middle section):  
+<audio controls>
+<source src="{{ site.baseurl }}/audio/114-float-second-half.mp3" type="audio/mpeg">
+</audio>
+
+* Blahbuddy blah
+
+## Sad Song:
+<audio controls>
+<source src="{{ site.baseurl }}/audio/114-sadsong.mp3" type="audio/mpeg">
+</audio>
+
+## Matrioshka Brain:
+<audio controls>
+<source src="{{ site.baseurl }}/audio/114-matbrain.mp3" type="audio/mpeg">
+</audio>
+
+
+#Upcoming practice: 11/4/15  
+
+Floating:  
+Middle section - Transition into middle with Tom's keys, Tom plays lead single note along with me and Kyle playing bass, Second half has harmonized oOoOo's, Outro of section is "through the stars" 1, 2, BOOM.  
+
+Last verse section - I play along, Lead descends as vocals do coordinated Ahhh's.  
+
+Final part - Turn tremolo off
+
+
+Matrioshka Brain:  
+Intro - Figuring out what everyone is doing  
+Verse 1 - I cut out, Tom plays whole not chords, Seb compliments, I come in at end part  
+Verse 2 - Same as verse 1, but I play opening riff along  
+Chorus 1 - Figure out how to transition back into verse 3 smoothly
+
+
+#Most recent update: 10/22/15  
 
 1 - Sad Captain Song:  
 This is sounding so cool. Just. Yeah. If we did it live like this I'd be mostly very happy. We should add in some harmonies. I could probably tighten some melodies. But I love the way the verse and chorus go, and I love what the drums transition into at 2:45ish. That whole outro, and the song in general, has such a great vibe. Also - the alternate matrioshka brain song at the end of this is killer.  
