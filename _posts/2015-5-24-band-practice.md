@@ -5,7 +5,7 @@ title: Band Practice
 
 #Most recent update: 11/8/15  
 
-## Liftoff:  
+#### Liftoff:  
 <audio controls>
 <source src="{{ site.baseurl }}/audio/114-liftoff.mp3" type="audio/mpeg">
 </audio>
@@ -14,19 +14,19 @@ title: Band Practice
 * More feedback
 
 
-## Floating (starting at middle section):  
+#### Floating (starting at middle section):  
 <audio controls>
 <source src="{{ site.baseurl }}/audio/114-float-second-half.mp3" type="audio/mpeg">
 </audio>
 
 * Blahbuddy blah
 
-## Sad Song:
+#### Sad Song:
 <audio controls>
 <source src="{{ site.baseurl }}/audio/114-sadsong.mp3" type="audio/mpeg">
 </audio>
 
-## Matrioshka Brain:
+#### Matrioshka Brain:
 <audio controls>
 <source src="{{ site.baseurl }}/audio/114-matbrain.mp3" type="audio/mpeg">
 </audio>
