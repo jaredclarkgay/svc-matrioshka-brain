@@ -15,6 +15,8 @@ Feeling just like dirt
 I throw on my jumpsuit  
 And get ready for work  
 
+verse 2x
+
 C-Em/B-Am7-C/G-F-G(-C on last one)  
 I'm just an inconsequential crewman  
 And though I give it my best  

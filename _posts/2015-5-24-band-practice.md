@@ -4,14 +4,22 @@ title: Band Practice
 ---
 
 #Most recent update: 11/8/15  
+IMPORTANT: Tracks take a little bit to load  
 
 #### Liftoff:  
 <audio controls>
 <source src="{{ site.baseurl }}/audio/114-liftoff.mp3" type="audio/mpeg">
 </audio>
 
-* Feedback blah blah
-* More feedback
+1.  Lead in:  
+  1. I like how everyone's kind of locked on the same notes, but Andrew has some moving stuff happening. Really effectively creates the feeling like we're about to break free from earth or whatevz.
+  
+2.  Main riff:  
+  1. Andrew's guitar adds some excellent beef to the main riff. There's probably room for us to do some interesting stuff where it harmonizes a bit more.   
+  
+3. Tom:  
+  1. I remember your keys having some flutey tone in another practice, and I loved it. It would happen at the end of verse sections to complement what I'd been singing. You're still doing something there that sounds great, but I have something specific you did that I loved. We can chat about it.  
+  
 
 
 #### Floating (starting at middle section):  
@@ -19,17 +27,39 @@ title: Band Practice
 <source src="{{ site.baseurl }}/audio/114-float-second-half.mp3" type="audio/mpeg">
 </audio>
 
-* Blahbuddy blah
+1. Final Breakdown:  
+  1. Andrew and I play two phrases of the hard chords, I think Tom should play repeat quarter notes for the final two measures before it explodes.  
+  2. I'd be thrilled if Kyle wrote a bass line mimicking the bass line in Chemtrails (by Beck). I'm talking about at the end of Chemtrails where the drum is doing endless fills and the bass rocks.  
+  3. Might be cool to have Andrew doing a rich lead part that sounds something like what happens at the end of this the recording here: [Early recording of Floating](http://jaredclarkgay.github.io/svc-matrioshka-brain/All%20Songs/) <- I should also comment that this recording has lots of fun/potentially useable stuff.
+  
+2. Middle Section:  
+  1. I love that the background voices sound like little floating angels that aren't super tightly locked. And I love how the background vocals do an escalation in the part between the final verse and the final breakdown.  
 
 #### Sad Song:
 <audio controls>
 <source src="{{ site.baseurl }}/audio/114-sadsong.mp3" type="audio/mpeg">
 </audio>
 
+IMPORTANT: Start listening around 3:56 to not waste energy.  
+
+1. First Chorus:  
+  1. At the end of the first chorus, everyone in the band should do the breathy "ahh", not me.  
+  2. Love Andrew's compliments in this section.
+  
+2. Verse:  
+  1. Have Andrew do Oriental vibey stuff. He touches on it, and it sounds so good. I wonder if there's a way to tie it in well with the doo-wop vocals.  
+  2. The doo-wop vocals are magnificent.  
+  
+3. Ending:
+  1. I just need to figure out how exactly I want to do this part words/vocal wise.  
+
 #### Matrioshka Brain:
 <audio controls>
 <source src="{{ site.baseurl }}/audio/114-matbrain.mp3" type="audio/mpeg">
 </audio>
+
+
+------------------------------------
 
 
 #Upcoming practice: 11/4/15  
