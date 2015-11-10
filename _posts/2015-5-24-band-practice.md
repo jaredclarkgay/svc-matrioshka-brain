@@ -52,10 +52,17 @@ IMPORTANT: Start listening around 3:56 to not waste energy.
   
 3. Ending:
   1. I just need to figure out how exactly I want to do this part words/vocal wise.  
+  
+4. Loving Sebastian on the organ following my vocals.  
 
 #### Matrioshka Brain:
 <audio controls>
 <source src="{{ site.baseurl }}/audio/114-matbrain.mp3" type="audio/mpeg">
+</audio>
+
+#### Inconsequential Crewman:
+<audio controls>
+<source src="{{ site.baseurl }}/audio/" type="audio/mpeg">
 </audio>
 
 
