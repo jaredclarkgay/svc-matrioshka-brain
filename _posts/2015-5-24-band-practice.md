@@ -62,7 +62,7 @@ IMPORTANT: Start listening around 3:56 to not waste energy.
 
 #### Inconsequential Crewman:
 <audio controls>
-<source src="{{ site.baseurl }}/audio/" type="audio/mpeg">
+<source src="{{ site.baseurl }}/audio/114-ic.mp3" type="audio/mpeg">
 </audio>
 
 
