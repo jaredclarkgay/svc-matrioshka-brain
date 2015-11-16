@@ -13,28 +13,25 @@ Em-Dm
 When I wake in the morning  
 Feeling just like dirt  
 I throw on my jumpsuit  
-And get ready for work  
+And get ready for work  -Am!
 
-verse 2x
+So I walk to my station
+I work there all alone
+Monitoring radiation
+and Staring deep into black holes
 
 C-Em/B-Am7-C/G-F-G(-C on last one)  
-I'm just an inconsequential crewman  
+(i'm just an) 
+Inconsequential crewman  
 And though I give it my best  
-I sit here next to the captain    
-But he doesn't seem to know I exist  
+How much can I really matter,
+When no one seems to know I exist?
 
-Yeah everybody out here in the crew  
-Knows what I'm talking about, right?!!  
-Yeah we don't get no love  
-From the big shots up above  
-We've all been there before  
-We just do our chores  
-And no one seems to notice  
-But that's how it goees  
-On the lower decks  
-Yo where's the respect? (Goad the crowd before moving on)  
+Happy chords G6 G F6 F
 
-So we're gonna do a little call and response here
+Well I have a little secret- back on earth i was a party dude 2 da max
+Watch me get this crowd hyped
+You all listening?
 When I say "this" you "that"
 THIS
 (THAT)
