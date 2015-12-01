@@ -8,6 +8,8 @@ To-do:
 <source src="{{ site.baseurl }}/audio/Matrioshka-brain-Almost-Final.mp3" type="audio/mpeg">
 </audio>
 
+ALL ON SECOND CAPO
+
 (0-7)-(0-5)-(3-5)-(2-0) (verse)
 They built a matrioshka brain  
 A super computer in space  
@@ -16,7 +18,7 @@ A super computer in space
 Eneveloped all the light and heat  
 A heart inside, the sun it beats  
 
-F-G-A  
+F-G-A (Move all chords two frets up)  
 -Whispered -  
 Inside. It beats. Inside. It beats.  
 
