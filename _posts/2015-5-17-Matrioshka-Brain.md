@@ -44,7 +44,7 @@ The matrioshka brain
 Came to destroy us  
 The matrioshka brain  
 
-And your up next  
+And you're up next  
 The Matrioshka brain  
 
 It’s coming quick!  
@@ -60,8 +60,7 @@ This deep space monster came to destroy us
 And we just sat there watching while  
 A mega structure filled up our sky  
 
-Helpless  
-It destroyed us    
+Helpless!  
 
 A-G-C-D (chorus)  
 It’s coming quick!  
@@ -70,7 +69,7 @@ The matrioshka brain
 Came to destroy us 
 The matrioshka brain  
 
-And your up next  
+And you're up next  
 The Matrioshka brain  
 
 It’s coming quick!  
@@ -93,17 +92,10 @@ Life that can compete with it
 And you can travel faster than light  
 So it is coming for you next  
 
-(verse)  
-They built a matrioshka brain  
-Some ancient civilization  
-
-Alive and complex just like you and me  
-But wanting to control the galaxy  
-
-And we can't float here idly by  
-My home, then earth, then all of life  
-Need  
-The queen  
+The brain will destroy life  
+Life that can compete with it  
+And you can travel faster than light  
+So it is coming for you next  
 
 A-G-F-E (all these chords open and slower)  
 Life is a sensitive wonder  
@@ -120,3 +112,6 @@ This one can’t stand life as bright
 As a sun  
 A sun  
 And that’s us  
+
+- Alien: Thank you for rescuing me. The only way we, and your entire planet of Earth, can survive the Matrioshka Brain is with the help of the Queen. It appears Tom has brought us to the place where we can summon her. All we can do is hope she comes to help us. Repeat after me. -  
+- Alien: Oh Alex Vaughn, please come save us. -   

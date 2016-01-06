@@ -22,7 +22,7 @@ As I float through the spacey deep
 Dm-C#-C-F-E
 
 G-F-A-G-F-A  
-[C/G-D/G(c-shape)-B/F#(c-shape)  ]
+[C/G-D/G(c-shape)-B/F#(c-shape)  ]  
 Don’t be alarmed  
 The space isn’t so far  
 Between  
@@ -30,9 +30,18 @@ Point A
 And Point B  
 I came here to reach beyond our  
 Earth and through the stars  
-(Dm-C#-C-G-F-G-F) maybe  
-We came here to reach beyond our  
+
+Don’t be alarmed  
+The space isn’t so far  
+Between  
+Point A  
+And Point B  
+I came here to reach beyond our  
 Earth and through the stars  
+Beyond our earth  
+And through the stars  
+Beyond our earth  
+Through the stars!  
 
 A(open-f-shape-)-A(e-shape open)-(007870)-(000433)  
 I won't ever see  

@@ -8,66 +8,44 @@ To-do:
 <source src="{{ site.baseurl }}/audio/inconsequential-crewmen.mp3" type="audio/mpeg">
 </audio>
 
+- Jared: Can I get a report from the crew? How are you all out there? Everyone up here? Ben? Sab? Andrew? Kyle? Tom? -  
+- Tom: Everything is going great! And nice to meet you everyone, I'm the ship's Chief Engineer, Tom! Here's my official engineering report: We are currently traveling steadily at 10 times the speed of light. And I've noticed some irregularities in our warp field, but I think we're okay. -  
+- Jared: You think we're okay? -  
+- Tom: You know captain, nothing's ever going to be perfect. But we've got an excellent crew, and I'm confident our crew can handle whatever the icy void of space throws at us. Furthermore, and FURTHERMORE, I'm proud to be here with you and the rest of this crew looking for life out there. I mean, being here with all of you as part of the SVC, I'm living my lifelong dream. -  
 
-Em-Dm
-When I wake in the morning  
-Feeling just like dirt  
-I throw on my jumpsuit  
-And get ready for work  -Am!
-
-So I walk to my station
-I work there all alone
-Monitoring radiation
-and Staring deep into black holes
+Em-Dm  
+Here on the Starship Fermi  
+We've all got a dream  
+To find life in outer space  
+(That's why we) joined the SVC  
+Am!  
+G-F  
+The future is a mystery  
+That we're hoping to solve  
+We've got our responsibilities  
+All gotta do our jobs  
 
 C-Em/B-Am7-C/G-F-G(-C on last one)  
-(i'm just an) 
-Inconsequential crewman  
-And though I give it my best  
-How much can I really matter,
-When no one seems to know I exist?
+Cuz my life is in your hands  
+And your life's here in mine  
+If we all work together  
+We're all gonna be just fine  
+Who knows what we might find?  
 
-Happy chords G6 G F6 F
+Something's on my monitor  
+It seems the engines have stopped  
+As the ship's chief engineer  
+I need every hand on deck  
 
-Well I have a little secret- back on earth i was a party dude 2 da max
-Watch me get this crowd hyped
-You all listening?
-When I say "this" you "that"
-THIS
-(THAT)
-THIS
-(THAT)
+Ohhoohhh breakdown  
 
-Yeah you get it
+I think I see what's happening  
+The vortex coupling has slipped  
+Let's put this thing together  
+Let's Save our Ship!  
 
-When I say "Outer" you say "Space"
-rocket-ship
-extra-terrestrials
-max-warp
-uni-verse
-solar-system
-planet-inhabitable
-Ex-plore
+Chorus  
 
-Put your hands in the air  
-Cuz your engineers  
-Hands in the air cuz you're engineers!  
-Hands in the air cuz you're engineers!  
-Hands in the air cuz you're engineers!  
+Ohh's again  
 
-Well I got something to tell you all  
-That you may not know  
-Without us all doing our part  
-The ship would probably explode (KEY CHANGE!!!)  
-
-D-F#m-
-We're all consequential crewmen!!!  
-We always give it our best!!!!
-Without everybody's efforts
-The SVC couldn't exist!
-
-Slow outro
-
-(tom - I guess what we're trying to say is there's a lot going on behind the scenes, and we're all excited to be on this mission!)
-
-(Jared - You're the best crew a captain could ever ask for.)  
+I think it's working...  

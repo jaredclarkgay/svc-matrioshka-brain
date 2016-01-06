@@ -3,6 +3,13 @@ layout: post
 title: Band Practice
 ---
 
+#Prep for tomorrow 1/7/16
+<audio controls>
+<source src="{{ site.baseurl }}/audio/1-7practiceprep.mp3" type="audio/mpeg">
+</audio>
+Just listen through this once. These are the songs we'll be practicing.
+
+
 #Most recent update: 11/8/15  
 IMPORTANT: Tracks take a little bit to load  
 

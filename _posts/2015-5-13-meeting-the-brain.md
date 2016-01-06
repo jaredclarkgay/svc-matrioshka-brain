@@ -8,7 +8,7 @@ I'm the brain
 You're all fools  
 You don't even know the rules    
 
-But you, you stepped outside  
+But you - stepped outside  
 Welcome, welcome to the skies  
 
 Nice to meet you  
