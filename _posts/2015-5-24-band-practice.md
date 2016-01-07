@@ -9,8 +9,17 @@ title: Band Practice
 </audio>
 Just listen through this once. These are the songs we'll be practicing.
 
+1. Engine Failure (new version of Inconsequential Crewman) - fun "ahhhh" thing added.  
+2. Queen Song (Alex may be coming to practice. Woohoo!)  
+3. Mr. Brain (We have our brain, but he won't be coming tomorrow. I'll invite him for next week.)  
+4. Battle song + Victory song (These kind of blend together, and we'll just be jamming them out.)  
+5. List-a-mania  
 
-#Most recent update: 11/8/15  
+Julianne is also coming, so we'll practice The Matrioshka Brain whenever she shows up.  
+
+
+____________________________________________________________________________________
+#11/8/15  
 IMPORTANT: Tracks take a little bit to load  
 
 #### Liftoff:  
