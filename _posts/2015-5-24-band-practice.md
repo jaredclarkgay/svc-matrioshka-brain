@@ -3,6 +3,16 @@ layout: post
 title: Band Practice
 ---
 
+#Prep for tomorrow 1/13/16
+
+1. Liftoff song  
+2. Write transition from Liftoff to floating song  
+3. Liftoff thru Floating w/transition (remember the floating harmonies!)    
+4. Queen song w/o Alex  
+5. Queen song with Alex  
+6. Inconsequential crewman / Engine failure  
+7. Brain song practice (in prep for our Saturday practice with Caleb)  
+
 #Prep for tomorrow 1/7/16
 <audio controls>
 <source src="{{ site.baseurl }}/audio/1-7practiceprep.mp3" type="audio/mpeg">

@@ -95,7 +95,7 @@ So it is coming for you next
 The brain will destroy life  
 Life that can compete with it  
 And you can travel faster than light  
-So it is coming for you next  
+So it is coming for you  
 
 A-G-F-E (all these chords open and slower)  
 Life is a sensitive wonder  
