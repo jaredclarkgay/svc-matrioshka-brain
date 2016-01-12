@@ -4,15 +4,15 @@ title: 9) Meeting the Brain
 ---
 
 E-D-C#m  
-I'm the brain  
-You're all fools  
-You don't even know the rules    
+Here you are  
+Seeking life - on this  
+Intergalactic space flight  
 
-But you - stepped outside  
+Yeah you - stepped outside  
 Welcome, welcome to the skies  
 
-Nice to meet you  
-The pleasure is mine  
+It's nice to meet you  
+The pleasure's all mine  
 Here to wipe you  
 from space and time  
 Sit back  
@@ -35,6 +35,40 @@ You
 Are one of many
 To reach the place
 Where you might try to kill me
+
+D-A-E  
+And I don't wanna die  
+I don't wanna die  
+I don't wanna die  
+
+(Final verse)  
+How can you define exactly what is alive?  
+I don't think the universe needs you to survive.  
+I wanna live  
+By myself  
+Out in space  
+No one else  
+
+B-D-A-E
+Let  
+Me tell you  
+A little bit about myself  
+My story  
+
+There's  
+A star inside me
+It powers all my
+Circuits and memory 
+
+You
+Are one of many
+To reach the place
+Where you might try to kill me
+
+D-A-E  
+And I don't wanna die  
+I don't wanna die  
+I don't wanna die  
 
 D-A-E  
 And I don't wanna die  
