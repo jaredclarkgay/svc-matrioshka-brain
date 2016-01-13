@@ -73,7 +73,24 @@ I don't wanna die
 D-A-E  
 And I don't wanna die  
 I don't wanna die  
-I don't wanna die (twice quiet)  
+I don't wanna die (a bunch of times)  
+
+D-A
+So goodbye  
+My human friends  
+
+B-D
+Human-kind  
+It's the end  
+
+D-A  
+Goodbye my human friends 
+
+(main riff)  
+Goodbye!!  
+
+
+____________________________
 
 Could be today  
 Or a thousand years  
