@@ -5,7 +5,7 @@ title: Band Practice
 #Prep for tomorrow 1/18/16
 
 1. Sad song - get it tight  
-2. I'm the brain - get it tighter  
+2. I'm the brain - get it tighter (Caleb will be joining us!)  
 3. Incons. Crewman - get it tighter  
 4. Queen song - quick run-through  
 5. Make decision regarding how we'll do Max. Warp song  
