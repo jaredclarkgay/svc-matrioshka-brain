@@ -13,7 +13,7 @@ C(slide to)-D
 Am-G-C-C(slide to)-D
 
 
-E-D  
+A-G  
 Earth  
 You summoned me  
 I reign over everything  
@@ -27,11 +27,11 @@ I know how to kill the brain
  
 I know how and I have come to
 
-Bm-A  
+Em-D  
 Save you!
-Bm-A  
+Em-D  
 Save you all!  
-C#m-D-C#m-D (Repeat)    
+F#m-G-F#m-G (Repeat)    
   
 Before life was here  
 I needed to chart all the spheres  
@@ -45,7 +45,7 @@ We must launch a full attack
 Before more planets meet their match   
 I am here and I have to come
 to save you! Save you all!    
-E    
+A    
 Listen closely  
 I need a decoy  
 I need you to distract The Brain  
@@ -55,22 +55,23 @@ It shouldn't take too long. No.
 It shouldn't take tooo long. No.  
 It shouldn't take toooo long go go go go go go!  
 
-G-A
+C-D
 
 Captain:  
-E
+A
 You heard the Queen  
-E-G-D (notes)  
+A-C-G (notes)  
 We must be brave and get in the way  
 Of the brain  
 We've got to distract him  
 Lead him deep into space  
-E-G-D     
+A-C-G     
 We'll have to fight him until the Queen can blow  him away  
    
 Who's ready for battle?  
 Band: I'm ready for battle!  
 
+A-F-B-G#-A
 E-C-F#-D#-E (power chords by necessity)  
 
 

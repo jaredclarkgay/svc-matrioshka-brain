@@ -33,7 +33,7 @@ We're all gonna be just fine
 Who knows what we might find?  
 
 Something's on my monitor  
-It seems the engines have stopped  
+It seems the engines have wrekt  
 As the ship's chief engineer  
 I need every hand on deck  
 

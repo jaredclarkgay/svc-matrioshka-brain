@@ -11,8 +11,8 @@ Intergalactic space flight
 Yeah you - stepped outside  
 Welcome, welcome to the skies  
 
-It's nice to meet you  
-The pleasure's all mine  
+Nice to meet you  
+The pleasure is mine  
 Here to wipe you  
 from space and time  
 Sit back  
@@ -42,8 +42,8 @@ I don't wanna die
 I don't wanna die  
 
 (Final verse)  
-How can you define exactly what is alive?  
-I don't think the universe needs you to survive.  
+Who are you to say exactly what is alive?  
+Organic or mechanical just one can survive  
 I wanna live  
 By myself  
 Out in space  
