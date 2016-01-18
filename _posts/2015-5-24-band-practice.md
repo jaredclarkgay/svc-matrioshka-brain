@@ -3,6 +3,7 @@ layout: post
 title: Band Practice
 ---
 #Prep for tomorrow 1/18/16
+Quick note - It really looks like we'll be able to play all the songs in order before the month of January ends. We can do a quick touching of base on how we'll accomplish this once everyone is together tomorrow. Anyway - practice:  
 
 1. Sad song - get it tight  
 2. I'm the brain - get it tighter (Caleb will be joining us!)  
