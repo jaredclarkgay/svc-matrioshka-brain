@@ -29,8 +29,10 @@ C-Em/B-Am7-C/G-F-G(-C on last one)
 Cuz my life is in your hands  
 And your life's here in mine  
 If we all work together  
-We're all gonna be just fine  
-Who knows what we might find?  
+1 We're all gonna be just fine  
+2 Who knows what we might find?  
+
+short inst
 
 Something's on my monitor  
 It seems the engines have wrekt  

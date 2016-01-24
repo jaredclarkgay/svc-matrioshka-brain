@@ -41,7 +41,7 @@ And I don't wanna die
 I don't wanna die  
 I don't wanna die  
 
-(Final verse)  
+(Final verse) - should we double this?  
 Who are you to say exactly what is alive?  
 Organic or mechanical just one can survive  
 I wanna live  
@@ -75,11 +75,11 @@ And I don't wanna die
 I don't wanna die  
 I don't wanna die (a bunch of times)  
 
-D-A
+D-A  
 So goodbye  
 My human friends  
 
-B-D
+E-D  
 Human-kind  
 It's the end  
 

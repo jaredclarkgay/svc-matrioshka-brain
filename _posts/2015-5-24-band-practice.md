@@ -2,6 +2,16 @@
 layout: post
 title: Band Practice
 ---
+#THIS WEEK STUFF
+This week will be a little crazy. Thanks for everything you are.
+
+1. Monday night practice - Nail down Battle song & victory song. Record 40ish seconds of Floating song audio for promo video.  
+
+2. Tuesday - The first big runthrough. We're running all the songs from start to finish. Alex, Caleb & Julianne will all be there. So will Andrew (as an observer). This is a big deal.  
+
+3. (If you're around) Thursday - This is more of an FYI, but we'll be shooting the promo video at the studio where I work at 7 p.m. If you can make it, great, if you can't, no big. We could use an extra hand or two and an additional creative head.  
+
+
 #Prep for tomorrow 1/18/16
 Quick note - It really looks like we'll be able to play all the songs in order before the month of January ends. We can do a quick touching of base on how we'll accomplish this once everyone is together tomorrow. Anyway - practice:  
 
