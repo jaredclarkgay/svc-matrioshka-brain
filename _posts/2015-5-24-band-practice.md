@@ -7,6 +7,11 @@ Monday & Tuesday practice this week.
 
 1. Monday night practice - Nail down Battle song & victory song. Record 40ish seconds of Floating song audio for promo video.  
 
+Here's the recording - lyrics are close but not locked. We may adjust some structure tomorrow:
+<audio controls>
+<source src="{{ site.baseurl }}/audio/ending.mp3" type="audio/mpeg">
+</audio>
+
 2. Tuesday - The first big runthrough. We're running all the songs from start to finish. Alex, Caleb & Julianne will all be there. So will Andrew (as an observer). This is a big milestone.  
 
 
