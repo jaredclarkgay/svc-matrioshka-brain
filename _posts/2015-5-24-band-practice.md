@@ -7,7 +7,7 @@ Monday & Tuesday practice this week.
 
 1. Monday night practice - Nail down Battle song & victory song. Record 40ish seconds of Floating song audio for promo video.  
 
-Here's the recording - lyrics are close but not locked. We may adjust some structure tomorrow:
+Here's the recording of the battle song leading into the victory song/ending - lyrics are close but not locked. We'll likely adjust some structure tomorrow:  
 <audio controls>
 <source src="{{ site.baseurl }}/audio/ending.mp3" type="audio/mpeg">
 </audio>
