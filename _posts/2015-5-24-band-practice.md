@@ -8,8 +8,9 @@ title: Band Practice
 3. Nail down Queen song dynamics - needs to hit hard or not hit hard when the times are right  
 4. Engine failure tightening + harmonies + dialogue practice (<-simple)  
 
+__________________________________________
 
-#THIS WEEK STUFF
+#OLD
 Monday & Tuesday practice this week.  
 
 1. Monday night practice - Nail down Battle song & victory song. Record 40ish seconds of Floating song audio for promo video.  
