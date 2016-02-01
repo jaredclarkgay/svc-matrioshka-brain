@@ -30,8 +30,8 @@ Earth is safe
 We came
 and ended some life  
 
-- Me ask the Queen - Did we do the right thing? I mean he was definitely evil, but we did kill him. Like he predicted.  
-- Queen - You may never know, but there's a whole galaxy full of life waiting for you, and you're not getting any younger.
+- Me ask the Queen - Did we do the right thing? I mean he was definitely evil, but we did kill him. Just like he predicted.  
+- Queen - You may never know, and you may never stop wondering, but there's a whole galaxy full of life waiting for you, and you're not getting any younger.
 - Me - Life like us?
 - Queen - Very much so. Whatever happens next is up to you.   
 
@@ -64,6 +64,49 @@ What we found, what we found, what we found
 
 A-C-D  
 What we found, what we found, what we found    
+
+A-Dm-F-G  
+I know there's life out there like me  
+I've seen it in our galaxy
+I came to reach beyond the stars  
+Right here is where the future starts  
+
+
+
+
+----------
+
+Em-A
+We-eee (found life)  
+Found life (in space)  
+In space (alright!)  
+Alriiiiight!  (ALRIGHT!)
+B-C-D-Eb  
+
+I think (about)  
+About (my friends)  
+My friends (On Earth)  
+On Earth  
+
+C-D  
+Em-A
+Our future! It begins!  
+
+Em-A
+We-eee (found life)  
+Found life (in space)  
+In space (alright!)  
+Alriiiiight!  (ALRIGHT!)
+C-D  
+
+I think (about)  
+About (what's next)  
+What's next (in space)  
+In space    
+
+C-D  
+Em-A
+Our future! It begins!  
 
 A-Dm-F-G  
 I know there's life out there like me  

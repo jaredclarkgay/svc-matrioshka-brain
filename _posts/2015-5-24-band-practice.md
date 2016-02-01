@@ -2,6 +2,13 @@
 layout: post
 title: Band Practice
 ---
+#Prep for tomorrow 2/1/16
+1. Queen arrival song  
+2. Queen song harmonies  
+3. Nail down Queen song dynamics - needs to hit hard or not hit hard when the times are right  
+4. Engine failure tightening + harmonies + dialogue practice (<-simple)  
+
+
 #THIS WEEK STUFF
 Monday & Tuesday practice this week.  
 
