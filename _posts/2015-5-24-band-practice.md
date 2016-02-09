@@ -2,15 +2,26 @@
 layout: post
 title: Band Practice
 ---
+
+#Prep for tonight 2/9/16
+
+1. Mr. Brain song (it's dropped a half step and is NOW in the same key as The Matrioshka Brain) - Caleb will be here to run it with us.
+2. Battle song - We'll run this and practice Caleb's part.
+3. The Song of Iou - WHAT IS THIS?! I'll tell you, it's what we'll be playing as we summon the queen. We'll spend 10 minutes TOPS on this - mostly to show it to you all.
+4. Queen arrival jam + Queen song
+5. IF TIME - run new finale song once or twice to solidify vibes
+
+__________________________________________
+
+#OLD
+
 #Prep for tomorrow 2/1/16
 1. Queen arrival song  
 2. Queen song harmonies  
 3. Nail down Queen song dynamics - needs to hit hard or not hit hard when the times are right  
 4. Engine failure tightening + harmonies + dialogue practice (<-simple)  
 
-__________________________________________
 
-#OLD
 Monday & Tuesday practice this week.  
 
 1. Monday night practice - Nail down Battle song & victory song. Record 40ish seconds of Floating song audio for promo video.  

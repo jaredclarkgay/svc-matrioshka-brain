@@ -72,7 +72,6 @@ Who's ready for battle?
 Band: I'm ready for battle!  
 
 A-F-B-G#-A
-E-C-F#-D#-E (power chords by necessity)  
 
 
 

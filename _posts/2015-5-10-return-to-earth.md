@@ -17,7 +17,7 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 
 Andrew riff -
-F-Fmaj7-Bb-A-Bb-A-G
+F-Am-Bb-A-Bb-A-G
 Star dust  
 Left behind  
 Earth is safe  
@@ -30,10 +30,50 @@ Earth is safe
 We came
 and ended some life  
 
-- Me ask the Queen - Did we do the right thing? I mean he was definitely evil, but we did kill him. Just like he predicted.  
-- Queen - You may never know, and you may never stop wondering, but there's a whole galaxy full of life waiting for you, and you're not getting any younger.
-- Me - Life like us?
-- Queen - Very much so. Whatever happens next is up to you.   
+- Me ask the Queen - The brain really had to go didn't he. I mean he predicted we'd kill him, and that's exactly what we did.  
+- Queen - Listen - there was no way he was going to let humanity survive.  
+- Me - I just wonder if there might have been some other solution.  
+- Queen - You may never know, and you may never stop wondering, but there's a whole galaxy full of life waiting for you, and you're not getting any younger.  
+- Me - Full of life like us?  
+- Queen - Very much so. Whatever happens next is up to you.  
+
+
+C-Eb-Ab-C  
+Eb-Ab-Fm-Bb (Am) -C
+
+I look to the sky  
+And I see it's all bright  
+
+And we are alive    
+
+What, what did we find?  
+A queen, a brain,  
+an alien survives  
+And soon we will arrive  
+Alive  
+
+Whatever lies ahead!  
+Our newest beginning!  
+Nothing will be quite the same!  
+Will something be ending?  
+
+I've got my doubts!  
+I've got my trust!  
+We found some life!  
+like  
+us!  
+
+Whatever lies ahead!  
+Our newest beginning!  
+Nothing will be quite the same!  
+Will something be ending?  
+
+I've got my doubts!  
+I've got my trust!  
+We found some life!  
+like  
+us!  
+
 
 A-F-C-D  
 We found life  

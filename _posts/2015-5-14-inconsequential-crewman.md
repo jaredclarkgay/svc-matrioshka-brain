@@ -35,9 +35,9 @@ If we all work together
 short inst
 
 Something's on my monitor  
-It seems the engines have wrekt  
+It seems the engines have stopped  
 As the ship's chief engineer  
-I need every hand on deck  
+I need every hand up top  
 
 Ohhoohhh breakdown  
 

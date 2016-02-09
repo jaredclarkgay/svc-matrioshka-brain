@@ -14,7 +14,7 @@ Welcome, welcome to the skies
 Nice to meet you  
 The pleasure is mine  
 Here to wipe you  
-from space and time  
+from space and time, so just  
 Sit back  
 Enjoy the ride  
 Sweet little earthlings  

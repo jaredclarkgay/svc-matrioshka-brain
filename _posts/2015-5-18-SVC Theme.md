@@ -11,17 +11,16 @@ To-do:
 We are the SVC  
 Space Venture Coalition  
 Exploring space  
-to unify the world   
+We unify the world   
 For we know  
 Outer space  
 Is beckoning  
-
 
 So we go  
 Yes we seek  
 Other life   
 Spreading peace  
-For we are the SVC
+For we are the SVC  
 
 
 

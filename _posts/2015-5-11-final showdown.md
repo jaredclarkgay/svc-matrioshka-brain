@@ -38,7 +38,7 @@ Is run
 Tom - Captain, he's gotten too close. His gravity well is sucking us in. We don't have the power to get out.  
 
 Am-D-Em-D
-It's too late for you now  
+It's too late  for you now  
 You can't escape  
 First I'll destroy you  
 and then your whole race  
