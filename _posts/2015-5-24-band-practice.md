@@ -3,6 +3,54 @@ layout: post
 title: Band Practice
 ---
 
+#Prep for this week - Demos!
+
+Wednesday:  
+1. Maximum Warp - We need to nail this down - who is triggering the arpeggio, who we're doing that, Ben on drums, Andrew and I on guitar. What the band is doing during the song.  
+2. Summoning song - Adapt previous ending song into new summoning tune.  
+3. Tighten songs as we see fit.  
+
+###Demos from last practice:  
+
+Liftoff:
+<audio controls>
+<source src="{{ site.baseurl }}/audio/demo1/demo-liftoff.mp3" type="audio/mpeg">
+</audio>
+
+Floating:
+<audio controls>
+<source src="{{ site.baseurl }}/audio/demo1/demo-floating.mp3" type="audio/mpeg">
+</audio>
+
+SVC Anthem:  
+<audio controls>
+<source src="{{ site.baseurl }}/audio/demo1/demo-svcanthem.mp3" type="audio/mpeg">
+</audio>
+
+Queen:  
+<audio controls>
+<source src="{{ site.baseurl }}/audio/demo1/demo-queen.mp3" type="audio/mpeg">
+</audio>
+
+Mr. Brain:  
+<audio controls>
+<source src="{{ site.baseurl }}/audio/demo1/demo-mrbrain.mp3" type="audio/mpeg">
+</audio>
+
+Final Battle:  
+<audio controls>
+<source src="{{ site.baseurl }}/audio/demo1/demo-final-battle.mp3" type="audio/mpeg">
+</audio>
+
+Outro:  
+<audio controls>
+<source src="{{ site.baseurl }}/audio/demo1/demo-outro.mp3" type="audio/mpeg">
+</audio>
+
+__________________________________________
+
+#OLD
+
 #Prep for tonight 2/9/16
 
 1. Mr. Brain song (it's dropped a half step and is NOW in the same key as The Matrioshka Brain) - Caleb will be here to run it with us.
@@ -11,9 +59,6 @@ title: Band Practice
 4. Queen arrival jam + Queen song
 5. IF TIME - run new finale song once or twice to solidify vibes
 
-__________________________________________
-
-#OLD
 
 #Prep for tomorrow 2/1/16
 1. Queen arrival song  

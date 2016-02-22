@@ -6,7 +6,7 @@ title: 9) Meeting the Brain
 E-D-C#m  
 Here you are  
 Seeking life - on this  
-Intergalactic space flight  
+Interstellar flight  
 
 Yeah you - stepped outside  
 Welcome, welcome to the skies  
