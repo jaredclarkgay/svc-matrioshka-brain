@@ -3,21 +3,22 @@ layout: post
 title: Band Practice
 ---
 
-#Prep for this week - Demos!
+#Practice on Wednesday  
 
 Wednesday:  
-1. Maximum Warp - We need to nail this down - who is triggering the arpeggio, who we're doing that, Ben on drums, Andrew and I on guitar. What the band is doing during the song.  
+1. Maximum Warp - We need to nail this down - who is triggering the arpeggio, how we're doing that, Ben on drums, Andrew and I on guitar. What the band is doing during the song.  
 2. Summoning song - Adapt previous ending song into new summoning tune.  
 3. Tighten songs as we see fit.  
 
-###Demos from last practice:  
+###Demos from last practice: 
+I had some bad timing issues in Floating. For the most part, these are quite fun.  
 
-Liftoff:
+Liftoff:  
 <audio controls>
 <source src="{{ site.baseurl }}/audio/demo1/demo-liftoff.mp3" type="audio/mpeg">
 </audio>
 
-Floating:
+Floating:  
 <audio controls>
 <source src="{{ site.baseurl }}/audio/demo1/demo-floating.mp3" type="audio/mpeg">
 </audio>
